@@ -16,7 +16,7 @@ body * {
 
 #container {
     width: 360px;
-  
+    padding: 0 24px;
     margin: 56px auto 0px;
 }
 
@@ -47,10 +47,13 @@ ul {
    display: flex;
    flex-direction: column;
    gap: 16px;
+
+   padding: 24px 0;
 }
 
 ul li a{
     text-decoration: none;
+    font-weight: 500;
 
     width: 312px;
     height: 56px;
@@ -63,4 +66,38 @@ ul li a{
     background-color: rgba(255,255,255,0.1);
     border:  1px solid rgba(255,255,255,0.5);
     border-radius: 8px;
+
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+
+    transition: background 0.3s;
 }
+
+ul li a:hover {
+    background-color: rgba(255,255,255,0.05);
+    border:  1.5px solid white;
+}
+
+#social_links {
+    display: flex;
+    justify-content: center;
+
+    padding: 24px 0;
+    
+    font-size: 24px;
+}
+
+#social_links a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+
+    transition: background 0.3s;
+    border-radius: 50%;
+}
+
+#social_links a:hover{
+    background-color: rgba(255,255,255,0.2);
+}
+
