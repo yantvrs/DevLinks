@@ -176,3 +176,12 @@ footer a {
 footer a:hover {
     color: gray;
 }
+
+@media (min-width: 700px) {
+    :root {
+        --background-url: url(./assets/bg-desktop.jpg);
+    }
+    .light {
+        --background-url: url(./assets/bg-desktop-light.jpg);
+    }
+}
