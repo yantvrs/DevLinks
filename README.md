@@ -1,4 +1,4 @@
-# DevLinks
+# DevLinks 🚀
 
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 
@@ -6,10 +6,11 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 ## Tabela de Conteúdos
 
-- [Tecnologias](#tecnologias)
-- [Projeto](#projeto)
-- [Layout](#layout)
-- [Licença](#licença)
+- [Tecnologias](#tecnologias) 💻
+- [Projeto](#projeto) 📄
+- [Layout](#layout) 🎨
+- [Licença](#licença) 📝
+
 
 ![License](https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000)
 
