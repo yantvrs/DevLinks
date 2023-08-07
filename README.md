@@ -1,39 +1,39 @@
 # DevLinks 🚀
 
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Welcome to DevLinks, an exclusive and free program promoted by Rocketseat for learning web technologies.
 
-[Estude esse projeto em formato de vídeo clicando aqui.](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+[Explore this project in video format by clicking here.](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
-## Tabela de Conteúdos
+## Table of Contents
 
-- [Tecnologias](#tecnologias) 💻
-- [Projeto](#projeto) 📄
+- [Technologies](#technologies) 💻
+- [Project](#project) 📄
 - [Layout](#layout) 🎨
-- [Licença](#licença) 📝
-
+- [License](#license) 📝
 
 ![License](https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000)
 
-## Tecnologias
+## Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed using the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
 
-## Projeto
+## Project
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+DevLinks serves as an aggregator of links, which you can use as your online business card.
 
-- [Acesse o projeto finalizado, online](https://yantvrs.github.io/DevLinks/index.html)
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Access the finalized project online](https://yantvrs.github.io/DevLinks/index.html)
+- [Watch the lessons](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout through [THIS LINK](https://www.figma.com/community/file/1187422022288947321). A [Figma](https://figma.com) account is required to access it.
 
-## Licença
+## License
 
-Esse projeto está sob a licença MIT.
+This project is licensed under the MIT License.
+
