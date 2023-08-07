@@ -24,7 +24,7 @@ This project was developed using the following technologies:
 
 ## Project
 
-DevLinks serves as an aggregator of links, which you can use as your online business card.
+DevLinks serves as an aggregator of links, which you can use as your online business card. This project was developed by me through the Rocketseat course.
 
 - [Access the finalized project online](https://yantvrs.github.io/DevLinks/index.html)
 - [Watch the lessons](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
@@ -36,4 +36,3 @@ You can view the project layout through [THIS LINK](https://www.figma.com/commun
 ## License
 
 This project is licensed under the MIT License.
-
