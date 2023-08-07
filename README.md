@@ -34,4 +34,4 @@ You can view the project layout through [THIS LINK](https://www.figma.com/commun
 ## :pencil: License
 
 
-![License](https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000) This project is licensed under the MIT License.
+![License](https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000)       This project is licensed under the MIT License.
